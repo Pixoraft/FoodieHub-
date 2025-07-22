@@ -1,0 +1,31 @@
+Build a stunning, modern, and fully responsive restaurant website called "FoodieHub" for a fictional brand. This website should look like a top 0.00001% design — with a relaxing, premium color palette (earth tones + modern contrast like #222 and #EBA83A), soft shadows, glassmorphism, and top-class typography.
+
+Key Pages:
+1. **Home** - Hero section with background image or video, CTA buttons ("Order Now", "Book Table"), featured dishes carousel, testimonials.
+2. **Menu** - Categorized menu (Starters, Main, Desserts, Drinks) with images, descriptions, and prices.
+3. **Order Online** - Users can browse dishes, add to cart, and place orders. On checkout, integrate a WhatsApp ordering system — when user confirms, open a pre-filled WhatsApp message to the restaurant number.
+4. **About Us** - Chef intro, brand story, restaurant interiors image gallery (with lightbox), Google Maps embed.
+5. **Contact** - Working contact form, phone number, WhatsApp floating button, opening hours.
+6. **Admin Dashboard** (Basic) - Add/edit/delete dishes (using localStorage or backend JSON).
+
+Features:
+- Fully SEO optimized (meta tags, semantic HTML, alt texts, OpenGraph, sitemap.xml)
+- Super fast loading using lazy-loading, image optimization, and clean code
+- Mobile-first, responsive layout using Tailwind CSS or modern CSS Grid
+- Use smooth animations (Framer Motion or pure CSS) for scroll and hover
+- Include sticky navbar with scroll effect
+- Add testimonials slider using SwiperJS
+- Use a local mock JSON for menu data
+- Add loading spinner and success modals
+- Cart system with live total, quantity update, and item remove
+- WhatsApp order system pre-fills all cart data in message
+- Use favicon, title, social preview image
+
+Extra:
+- Include Replit hosting guide in comments
+- Code should be modular, clean, well-commented
+- Show hero content immediately on load
+- Footer with social links, privacy policy, terms
+- Ready-to-deploy (can run on Replit + Netlify)
+
+Design it in a way that **restaurant owners would be stunned** and **want to hire Pixoraft instantly** after seeing the demo.
